@@ -27,9 +27,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img height="100" src="https://cdn.dribbble.com/users/139618/screenshots/889857/media/903d7011b5d79ec4471a2c51072d30e9.gif"  />
-</div>
-
-###
