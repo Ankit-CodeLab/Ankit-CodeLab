@@ -5,50 +5,47 @@
 
 ### Hosted Projects
 
-- **[Edu-Materials-Hub](https://your-link-to-edu-materials-hub.com)**  
+- **[Edu-Materials-Hub](https://edu-materials-hub.onrender.com/)**  
   A platform to help students access study materials efficiently.  
-  *(JavaScript, React)*
+  *(JavaScript, React, Nodejs)*
 
-- **[Kheti-Connect](https://your-link-to-kheti-connect.com)**  
-  A platform aimed at connecting farmers with essential resources.  
-  *(HTML, CSS, JavaScript)*
-
-- **[Social-Sentinel](https://your-link-to-social-sentinel.com)**  
-  A tool designed to analyze and monitor social media sentiment.  
-  *(JavaScript, Python)*
-
-- **[YouTube-Clone](https://your-link-to-youtube-clone.com)**  
+- **[YouTube-Clone](https://ankit-codelab.github.io/YouTube-Clone)**  
   A clone of YouTube's frontend for learning purposes.  
   *(HTML, CSS, JavaScript)*
+  
+- **[Your-Little-Outlet](https://ankit-codelab.github.io/Your-Little-Outlet)**  
+  A user-friendly e-commerce platform featuring product listings, a shopping cart, and a checkout system.
+  *(HTML, CSS)*
 
-- **[Login-Page](https://your-link-to-login-page.com)**  
+- **[Tatvamasi-Engineering](https://ankit-codelab.github.io/Tatvamasi-Engineering)**  
+  A comprehensive mechanical industrial website for a company, featuring sections on company information, products, infrastructure, and job applications.
+  *(HTML, CSS, JavaScript)*
+  
+- **[Snake-O-Portal](https://ankit-codelab.github.io/Snake-O-Portal)**  
+  A quiz-like web application with one question and three options, created for a college event.    
+  *(HTML, CSS, JavaScript)*
+
+- **[Social-Sentinel](https://ankit-codelab.github.io/Social-Sentinel)**  
+  A tool designed to analyze and monitor social media sentiment.  
+  *(JavaScript, HTML, CSS)*
+  
+- **[Login-Page](https://ankit-codelab.github.io/Login-Page/)**  
   A simple, responsive login page.  
   *(HTML, CSS)*
 
 ### Not Hosted
 
-- **[YLO-Django](https://github.com/your-username/YLO-Django)**  
-  A Django-based web application.  
-  *(HTML, Django)*
+- **YLO-Django**  
+  A fully functional e-commerce website - Your Little Outlet.
+  *(Django)*
 
-- **[Ankit-CodeLab](https://github.com/your-username/Ankit-CodeLab)**  
-  A collection of various coding projects and experiments.
+- **Kheti-Connect**  
+  A platform aimed at connecting farmers with essential resources.  
+  *(PHP, SQL, HTML, CSS, JavaScript)*
 
-- **[Snake-O-Portal](https://github.com/your-username/Snake-O-Portal)**  
-  A snake game developed as a web application.  
-  *(JavaScript)*
-
-- **[Your-Little-Outlet](https://github.com/your-username/Your-Little-Outlet)**  
-  A website project developed with HTML and CSS.  
-  *(HTML, CSS)*
-
-- **[Tatvamasi-Engineering](https://github.com/your-username/Tatvamasi-Engineering)**  
-  A technical project with a focus on engineering solutions.  
-  *(HTML)*
-
-- **[Sangeet-Saathi](https://github.com/your-username/Sangeet-Saathi)**  
-  A music-related project utilizing CSS for design.  
-  *(CSS)*
+- **Sangeet-Saathi**  
+  A music player, designed for playing and managing audio files.
+  *(HTML, JavaScript, CSS)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
