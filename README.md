@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Kushwaha</h1>
+<h1 align="center">Hey, I'm Ankit Kushwaha</h1>
 <h3 align="center">Web Development Intern | Hackathon Contributor | Innovative Project Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-codelab&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-codelab" /> </p>
@@ -14,7 +14,7 @@
   *(HTML, CSS, JavaScript)*
   
 - **[Your-Little-Outlet](https://ankit-codelab.github.io/Your-Little-Outlet)**  
-  A user-friendly e-commerce platform featuring product listings, a shopping cart, and a checkout system.
+  A user-friendly e-commerce platform featuring product listings, a shopping cart, and a checkout system.<br/>
   *(HTML, CSS)*
 
 - **[Tatvamasi-Engineering](https://ankit-codelab.github.io/Tatvamasi-Engineering)**  
