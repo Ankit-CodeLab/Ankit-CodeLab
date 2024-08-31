@@ -3,7 +3,52 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-codelab&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-codelab" /> </p>
 
-- 🔭 I’m currently working on [Kheti-Connect](https://ankit-codelab.github.io/Kheti-Connect/)
+### Hosted Projects
+
+- **[Edu-Materials-Hub](https://your-link-to-edu-materials-hub.com)**  
+  A platform to help students access study materials efficiently.  
+  *(JavaScript, React)*
+
+- **[Kheti-Connect](https://your-link-to-kheti-connect.com)**  
+  A platform aimed at connecting farmers with essential resources.  
+  *(HTML, CSS, JavaScript)*
+
+- **[Social-Sentinel](https://your-link-to-social-sentinel.com)**  
+  A tool designed to analyze and monitor social media sentiment.  
+  *(JavaScript, Python)*
+
+- **[YouTube-Clone](https://your-link-to-youtube-clone.com)**  
+  A clone of YouTube's frontend for learning purposes.  
+  *(HTML, CSS, JavaScript)*
+
+- **[Login-Page](https://your-link-to-login-page.com)**  
+  A simple, responsive login page.  
+  *(HTML, CSS)*
+
+### Not Hosted
+
+- **[YLO-Django](https://github.com/your-username/YLO-Django)**  
+  A Django-based web application.  
+  *(HTML, Django)*
+
+- **[Ankit-CodeLab](https://github.com/your-username/Ankit-CodeLab)**  
+  A collection of various coding projects and experiments.
+
+- **[Snake-O-Portal](https://github.com/your-username/Snake-O-Portal)**  
+  A snake game developed as a web application.  
+  *(JavaScript)*
+
+- **[Your-Little-Outlet](https://github.com/your-username/Your-Little-Outlet)**  
+  A website project developed with HTML and CSS.  
+  *(HTML, CSS)*
+
+- **[Tatvamasi-Engineering](https://github.com/your-username/Tatvamasi-Engineering)**  
+  A technical project with a focus on engineering solutions.  
+  *(HTML)*
+
+- **[Sangeet-Saathi](https://github.com/your-username/Sangeet-Saathi)**  
+  A music-related project utilizing CSS for design.  
+  *(CSS)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
