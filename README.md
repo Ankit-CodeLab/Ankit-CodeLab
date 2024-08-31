@@ -6,11 +6,11 @@
 ### Hosted Projects
 
 - **[Edu-Materials-Hub](https://edu-materials-hub.onrender.com/)**  
-  A platform to help students access study materials efficiently.<br/>  
+  A platform to help students access study materials efficiently.
   *(JavaScript, React, Nodejs)*
 
 - **[YouTube-Clone](https://ankit-codelab.github.io/YouTube-Clone)**  
-  A clone of YouTube's frontend for learning purposes.<br/>  
+  A clone of YouTube's frontend for learning purposes.
   *(HTML, CSS, JavaScript)*
   
 - **[Your-Little-Outlet](https://ankit-codelab.github.io/Your-Little-Outlet)**  
@@ -22,15 +22,15 @@
   *(HTML, CSS, JavaScript)*
   
 - **[Snake-O-Portal](https://ankit-codelab.github.io/Snake-O-Portal)**  
-  A quiz-like web application with one question and three options, created for a college event.<br/>    
+  A quiz-like web application with one question and three options, created for a college event.
   *(HTML, CSS, JavaScript)*
 
 - **[Social-Sentinel](https://ankit-codelab.github.io/Social-Sentinel)**  
-  A tool designed to analyze and monitor social media sentiment.<br/>  
+  A tool designed to analyze and monitor social media sentiment. 
   *(JavaScript, HTML, CSS)*
   
 - **[Login-Page](https://ankit-codelab.github.io/Login-Page/)**  
-  A simple, responsive login page.<br/>  
+  A simple, responsive login page.
   *(HTML, CSS)*
 
 ### Not Hosted
@@ -40,7 +40,7 @@
   *(Django)*
 
 - **Kheti-Connect**  
-  A platform aimed at connecting farmers with essential resources.<br/>  
+  A platform aimed at connecting farmers with essential resources.  
   *(PHP, SQL, HTML, CSS, JavaScript)*
 
 - **Sangeet-Saathi**  
