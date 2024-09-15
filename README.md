@@ -33,7 +33,7 @@
   A simple, responsive login page.<br/>
   *(HTML, CSS)*
 
-### Not Hosted
+### Non Hosted
 
 - **YLO-Django**  
   A fully functional e-commerce website - Your Little Outlet.<br/>
